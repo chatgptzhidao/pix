@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "themes": {
+    "Polaroid": {
+      "COLOR_GRADE": "sx70-retro",
+      "COLOR_GRADE_STRENGTH": 70,
+      "PHOTO_AGING": 70,
+      "SHOW_TAKEN_AT": true,
+      "TAKEN_AT_SIZE": 120,
+      "TAKEN_AT_COLOR": "#FFA500"
+    }
+  }
+}

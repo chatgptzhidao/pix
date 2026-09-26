@@ -1,0 +1,1 @@
+import{f as e,n as t}from"./vendor-Dp7VF1Fy.js";import{u as n}from"./konsta-DEHj5Rjz.js";var r=e(),i=({size:e,className:i})=>(0,r.jsx)(`div`,{className:`flex items-center justify-center ${i||``}`,children:(0,r.jsx)(n,{ios:(0,r.jsx)(t,{size:e})})});export{i as t};
