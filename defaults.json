@@ -52,7 +52,7 @@
     },
     "Instax": {
       "FORMAT": "mini",
-      "COLOR_GRADE": "none",
+      "COLOR_GRADE": "instant-soft",
       "COLOR_GRADE_STRENGTH": 100,
       "PHOTO_INSET": 35,
       "CARD_COLOR": "#F3EDED",
