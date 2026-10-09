@@ -154,6 +154,18 @@
       "SIGNATURE_FONT_FAMILY": "Barlow",
       "SIGNATURE_DATE": false,
       "SIGNATURE_ALPHA": 1
+    },
+    "Color Editorial": {
+      "TITLE": "Nature's poetry",
+      "SHOW_TAKEN_AT": true,
+      "TAKEN_AT_FALLBACK": "",
+      "SHOW_EXIF": true,
+      "COLOR_COUNT": 5,
+      "MARGIN": 4,
+      "RADIUS": 100,
+      "FONT_FAMILY": "Arial",
+      "BACKGROUND_COLOR": "#ffffff",
+      "TEXT_COLOR": "#111111"
     }
   }
 }
